@@ -20,8 +20,8 @@ I’m interested in Data Engineering, Analytics, and Machine Learning, with a fo
 ###  Tech Stack
 Python, SQL, R, Java, Data & Analytics, Pandas, NumPy, scikit-learn, Data Cleaning, ETL Pipelines, Data Validation, Statistical Modeling, Exploratory Data Analysis, Tools & Platforms, Git & GitHub, Docker, Streamlit, Jupyter Notebook, GNU Make
 
-📌 Featured Projects
-🍷 Wine Quality Data Pipeline & Validation
+# 📌 Featured Projects
+## 🍷 Wine Quality Data Pipeline & Validation
 
 Built an end-to-end data pipeline for cleaning, validating, and processing 4,898+ records using Python, Docker, and GNU Make.
 
@@ -35,7 +35,8 @@ Data quality checks
 
 Tech: Python, Docker, GNU Make, scikit-learn
 
-📊 Vancouver Business Data Analysis (Hackathon – 2nd Place)
+
+## 📊 Vancouver Business Data Analysis (Hackathon – 2nd Place)
 
 Analyzed 25+ years of Vancouver open data to identify business and economic trends.
 
@@ -48,7 +49,7 @@ Team collaboration
 
 Tech: Python, Pandas
 
-🎯 Product Recommendation System
+## 🎯 Product Recommendation System
 
 Developed a collaborative filtering recommendation engine using large-scale user interaction data.
 
@@ -61,7 +62,7 @@ Interactive dashboard
 
 Tech: Python, SQL, Streamlit, scikit-learn
 
-📈 Customer Purchase Prediction Model
+## 📈 Customer Purchase Prediction Model
 
 Built a logistic regression model to predict customer purchasing behavior using behavioral variables.
 
@@ -74,15 +75,16 @@ Data preprocessing
 
 Tech: R
 
-🌱 What I'm Working On
+### 🌱 What I'm Working On
 Improving my SQL and data engineering skills
 Building more end-to-end analytics projects
 Learning cloud-based data infrastructure
 Exploring scalable workflow orchestration tools
-📫 Connect With Me
-LinkedIn: [[Add Link]](https://www.linkedin.com/in/siluni-jayarathne/)
-GitHub: [[Add Link]](https://github.com/silunij/)
-Portfolio Website: [[Add Link]](https://silunij.github.io/)
+
+## 📫 Connect With Me
+LinkedIn: [[Link]](https://www.linkedin.com/in/siluni-jayarathne/)
+GitHub: [[Link]](https://github.com/silunij/)
+Portfolio Website: [[Link]](https://silunij.github.io/)
 
 Thanks for visiting my profile!
 <!--
